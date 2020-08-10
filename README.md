@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Shahrzad-gh)
+![](https://komarev.com/ghpvc/?username=Shahrzad-gh&color=blueviolet&style=flat)
 <!--
 **Shahrzad-gh/Shahrzad-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
