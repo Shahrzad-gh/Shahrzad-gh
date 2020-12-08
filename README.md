@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Shahrzad-gh&color=blueviolet&style=flat)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shahrzad-gh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
