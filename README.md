@@ -1,4 +1,4 @@
-### Hi there 👋
+ 🌱 I’m currently learning ...
 ![](https://komarev.com/ghpvc/?username=Shahrzad-gh&color=blueviolet&style=flat)
 
 
