@@ -1,6 +1,6 @@
 ## Introduction
 - 🔭 I’m currently working on ⚡[Live Chat Project](https://github.com/Shahrzad-gh/Livechat)
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack and UI/UX
 - 👯 I’m looking to collaborate on React projects
 
 ### Languages and Tools
