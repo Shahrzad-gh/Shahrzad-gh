@@ -22,7 +22,7 @@
 [![Shahrzad's github stats](https://github-readme-stats.vercel.app/api?username=Shahrzad-gh)](https://github.com/Shahrzad-gh/github-readme-stats)
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahrzad-gh&layout=compact)](https://github.com/Shahrzad-gh/github-readme-stats)
 
 
 ![Shahrzad's view stats](https://komarev.com/ghpvc/?username=Shahrzad-gh&color=blueviolet&style=flat)
