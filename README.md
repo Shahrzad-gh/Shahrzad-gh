@@ -1,5 +1,5 @@
 ## Introduction
-- 🔭 I’m currently working on ⚡[Portfolio](https://github.com/Shahrzad-gh/portfolio)
+- 🔭 I’m currently working on ⚡[Blog](https://github.com/Shahrzad-gh/Blog-Psycology)
 - 🌱 I’m currently learning MERN Stack and UI/UX
 - 👯 I’m looking to collaborate on React projects
 
