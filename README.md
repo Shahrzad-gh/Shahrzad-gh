@@ -1,5 +1,5 @@
 ## Introduction
-- 🔭 I’m currently working on ⚡[Blog](https://github.com/Shahrzad-gh/Blog-Psycology)
+- 🔭 I’m currently working on ⚡[Portfolio](https://github.com/Shahrzad-gh/Portfolio)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on React projects
 
