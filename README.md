@@ -1,6 +1,6 @@
 ## Introduction
 - 🔭 I’m currently working on ⚡[Hand to Hand](https://github.com/Shahrzad-gh/Hand-to-Hand) & ⚡[PWA](https://github.com/Shahrzad-gh/Online-Food)
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter & Docker
 - 👯 I’m looking to collaborate on React projects
 
 ### Languages and Tools
