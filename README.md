@@ -32,5 +32,5 @@ I build and maintain the backbone of enterprise systems, and I make sure what we
 
 ## 📫 Get in touch
 
-- LinkedIn: [[your-link]](https://www.linkedin.com/in/shahrzad-ghahvehrokhi/)
+- LinkedIn: https://www.linkedin.com/in/shahrzad-ghahvehrokhi/
 - Email: gh.shahrzad@gmail.com
