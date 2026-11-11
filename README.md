@@ -14,7 +14,7 @@ I build and maintain the backbone of enterprise systems, and I make sure what we
 
 ## 🚀 Currently working on
 
-**Focus & Lindm**: an **ERP system** that brings core business processes (e.g. [finance, inventory, HR, procurement]) into one platform.
+**Phocuss & Lyndom**: an **ERP system** that brings core business processes (e.g. [finance, inventory, HR, procurement]) into one platform.
 
 ## 🛠️ Tech stack
 
