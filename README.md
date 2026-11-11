@@ -22,9 +22,9 @@ I build and maintain the backbone of enterprise systems, and I make sure what we
 ![Database](https://img.shields.io/badge/Database-[Your%20DB]-green)
 ![Tools](https://img.shields.io/badge/Tools-Git%20%7C%20Docker-orange)
 
-- **Languages:** [e.g. C#, Java, Python, Node.js]
-- **Databases:** [e.g. PostgreSQL, SQL Server]
-- **Tools:** Git, Docker, [Jira / Postman / ...]
+- **Languages:**  Node.js
+- **Databases:** PostgreSQL, SQL Server, MongoDB
+- **Tools:** Git, Docker, Postman, Swagger
 
 ## 📈 GitHub stats
 
