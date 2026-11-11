@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Shahrzad
 
-**Backend Developer · Task Lead · Flow Platform Tester**
+**Backend Developer · Task Management · Flow Platform Tester**
 
 I build and maintain the backbone of enterprise systems, and I make sure what we ship actually works.
 
@@ -9,7 +9,7 @@ I build and maintain the backbone of enterprise systems, and I make sure what we
 
 - 🏢 **4 years 7 months** at **United Technologies**
 - ⚙️ **Backend Developer**: designing and developing APIs, business logic, and data layers for enterprise software
-- 📋 **Task Lead**: breaking down requirements, assigning tasks, and keeping the team's work on track
+- 📋 **Task Management**: breaking down requirements, assigning tasks, and keeping the team's work on track
 - 🧪 **Flow Platform Tester**: testing and validating workflow platform flows end to end
 
 ## 🚀 Currently working on
